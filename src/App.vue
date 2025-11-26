@@ -77,7 +77,7 @@ export default {
     initApiClient() {
       this.apiClient = new CozeAPI({
         token:
-          "cztei_hwzguYFV4jbonUfHakmlHPXdyEz5VsLTQ80i9b4Va5RYnNX0wChBGe85I2tB10buw",
+          "cztei_q7w8gQIIm7r4Qsp5XjDRJdPVWX0GYrVCrdq1uxL8GVzdRp4qAoClFQtDEn8czVUmR",
         baseURL: "https://api.coze.cn",
       });
     },

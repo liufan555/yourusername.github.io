@@ -4,7 +4,7 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/yourusername.github.io/',
+  base: './',
   server: {
     port: 3000,
     host: true
